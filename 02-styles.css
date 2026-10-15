@@ -1,0 +1,15 @@
+/* Base Starter styles */
+.hero-homepage {
+    background-position: 65% 8rem;
+    background-size: 90rem auto;
+}
+
+.section-hero .section-inner {
+    min-height: 35vh;
+}
+
+.container {
+    max-width: 96rem;
+    margin-left: auto;
+    margin-right: auto;
+}
